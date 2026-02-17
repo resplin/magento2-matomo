@@ -1,5 +1,5 @@
 {
-    "name": "chessio/module-matomo",
+    "name": "resplin/module-chessio-matomo",
     "description": "Matomo Analytics module for Magento 2",
     "type": "magento2-module",
     "license": [
